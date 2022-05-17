@@ -1,0 +1,14 @@
+Mon Apr 18 15:50:24 2022: Device1: Temp=16, Humid=14, Illum=81
+Mon Apr 18 15:50:26 2022: Device2: Heartbeat=91, Steps=5338, Cal=2223
+Mon Apr 18 15:50:27 2022: Device1: Temp=4, Humid=52, Illum=71
+Mon Apr 18 15:50:30 2022: Device1: Temp=34, Humid=12, Illum=94
+Mon Apr 18 15:50:31 2022: Device2: Heartbeat=53, Steps=5373, Cal=1260
+Mon Apr 18 15:50:33 2022: Device1: Temp=9, Humid=78, Illum=98
+Mon Apr 18 15:50:36 2022: Device2: Heartbeat=88, Steps=3406, Cal=2306
+Mon Apr 18 15:50:36 2022: Device1: Temp=9, Humid=52, Illum=100
+Mon Apr 18 15:50:39 2022: Device1: Temp=31, Humid=96, Illum=98
+Mon Apr 18 15:50:41 2022: Device2: Heartbeat=65, Steps=2625, Cal=1204
+Mon Apr 18 15:50:42 2022: Device1: Temp=11, Humid=26, Illum=111
+Mon Apr 18 15:50:45 2022: Device1: Temp=22, Humid=89, Illum=144
+Mon Apr 18 15:50:46 2022: Device2: Heartbeat=121, Steps=5680, Cal=3010
+Mon Apr 18 15:50:48 2022: Device1: Temp=28, Humid=17, Illum=79
